@@ -1,0 +1,18 @@
+{
+    "language": {
+        "en_us": {
+            "region": "\u4e2d\u56fd",
+            "name": "\u7b80\u4f53\u4e2d\u6587",
+            "bidirectional": false
+        },
+        "zh_tw": {
+            "region": "\u53f0\u7063",
+            "name": "\u7e41\u9ad4\u4e2d\u6587",
+            "bidirectional": false
+        }
+    },
+    "pack": {
+        "description": "R & B Client",
+        "pack_format": 3
+    }
+}
